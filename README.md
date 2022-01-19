@@ -1,8 +1,10 @@
 # GitHub repository for ‘Effects of Minimum Wages’
-GitHub repository with replication code (.Rmd, .html) for ‘Effects of Minimum Wages: A 1994 State of Washington Case Study’
+GitHub repository with replication code (.Rmd, .html, .md) for ‘Effects of Minimum Wages: A 1994 State of Washington Case Study’
 
 # Instructions:
-Use the .html file to preview the code and corresponding results. To replicate and edit, use the .Rmd file. 
+- [ ] Use the [.md](https://github.com/Benemrxr/effects-of-minimum-wages-1994-WA/blob/main/replication.md) file to **directly preview** the code and corresponding results (no download required)
+- [ ] Use the [.html](https://github.com/Benemrxr/effects-of-minimum-wages-1994-WA/blob/main/replication.html) file to preview the code and corresponding results (download required)
+- [ ] Use the [.Rmd](https://github.com/Benemrxr/effects-of-minimum-wages-1994-WA/blob/main/replication.Rmd) file to replicate and **edit** the code. Session info below. 
 
 sessionInfo {utils}: Collect Information About the Current R Session
 
